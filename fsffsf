@@ -1,0 +1,443 @@
+[33mcommit 9e2dfce4d88a9a6e104e1dcd68da10bba50c0f6b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Daniil <dronforapb@gmail.com>
+Date:   Wed Oct 12 13:41:05 2022 +0300
+
+    New comment1
+    
+    Signed-off-by: Daniil <dronforapb@gmail.com>
+
+[1mdiff --git a/lol.txt b/lol.txt[m
+[1mindex 4be0816..d29f97f 100644[m
+[1m--- a/lol.txt[m
+[1m+++ b/lol.txt[m
+[36m@@ -10,3 +10,4 @@[m [mcomment[m
+ #	deleted:    lol.txt.txt[m
+ #[m
+ newtwo[m
+[32m+[m[32metoudalit[m
+\ No newline at end of file[m
+[1mdiff --git a/to_delete.txt b/to_delete.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit c682ea03687eb1d5a6835a094022c6257a1b09fa[m
+Author: Daniil <dronforapb@gmail.com>
+Date:   Wed Oct 12 13:23:27 2022 +0300
+
+    'Изменения'
+
+[1mdiff --git a/hello.txt b/hello.txt[m
+[1mindex 074e4fc..709ceb8 100644[m
+[1m--- a/hello.txt[m
+[1m+++ b/hello.txt[m
+[36m@@ -1,3 +1,3 @@[m
+[31m-[m
+ kajfnka[m
+[31m-brand[m
+\ No newline at end of file[m
+[32m+[m[32mbrand[m
+[32m+[m[32mnewone[m
+\ No newline at end of file[m
+[1mdiff --git a/lol.txt b/lol.txt[m
+[1mindex cb1be88..4be0816 100644[m
+[1m--- a/lol.txt[m
+[1m+++ b/lol.txt[m
+[36m@@ -9,3 +9,4 @@[m [mcomment[m
+ # Changes not staged for commit:[m
+ #	deleted:    lol.txt.txt[m
+ #[m
+[32m+[m[32mnewtwo[m
+[1mdiff --git a/meme.txt b/meme.txt[m
+[1mindex e69de29..f9a18d6 100644[m
+[1m--- a/meme.txt[m
+[1m+++ b/meme.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mnewthree[m
+
+[33mcommit a338ecd1937e1b05688f18e76d5b614c5427ba31[m
+Author: Daniil <dronforapb@gmail.com>
+Date:   Wed Oct 12 13:20:44 2022 +0300
+
+    Brand new
+
+[1mdiff --git a/a b/a[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7c36f25[m
+[1m--- /dev/null[m
+[1m+++ b/a[m
+[36m@@ -0,0 +1,45 @@[m
+[32m+[m[32m[1mdiff --git a/dictionary b/dictionary[m[m
+[32m+[m[32m[1mnew file mode 160000[m[m
+[32m+[m[32m[1mindex 0000000..71f19c2[m[m
+[32m+[m[32m[1m--- /dev/null[m[m
+[32m+[m[32m[1m+++ b/dictionary[m[m
+[32m+[m[32m[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32m[32m+[m[32mSubproject commit 71f19c213136b116a5ad68b757719350dc620047[m[m
+[32m+[m[32m[1mdiff --git a/hello.txt b/hello.txt[m[m
+[32m+[m[32m[1mindex e69de29..27855ca 100644[m[m
+[32m+[m[32m[1m--- a/hello.txt[m[m
+[32m+[m[32m[1m+++ b/hello.txt[m[m
+[32m+[m[32m[36m@@ -0,0 +1,3 @@[m[m
+[32m+[m[32m[32m+[m[32mnewneew[m[m
+[32m+[m[32m[32m+[m[32mkajfnka[m[m
+[32m+[m[32m[32m+[m[32mbrand[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[32m+[m[32m[1mdiff --git a/lol.txt b/lol.txt[m[m
+[32m+[m[32m[1mindex 489ce0f..cb1be88 100644[m[m
+[32m+[m[32m[1m--- a/lol.txt[m[m
+[32m+[m[32m[1m+++ b/lol.txt[m[m
+[32m+[m[32m[36m@@ -1 +1,11 @@[m[m
+[32m+[m[32m[31m-old[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[32m+[m[32m[32m+[m[32mcomment[m[m
+[32m+[m[32m[32m+[m[32m# Please enter the commit message for your changes. Lines starting[m[m
+[32m+[m[32m[32m+[m[32m# with '#' will be ignored, and an empty message aborts the commit.[m[m
+[32m+[m[32m[32m+[m[32m#[m[m
+[32m+[m[32m[32m+[m[32m# On branch master[m[m
+[32m+[m[32m[32m+[m[32m# Changes to be committed:[m[m
+[32m+[m[32m[32m+[m[32m#	new file:   lol.txt[m[m
+[32m+[m[32m[32m+[m[32m#[m[m
+[32m+[m[32m[32m+[m[32m# Changes not staged for commit:[m[m
+[32m+[m[32m[32m+[m[32m#	deleted:    lol.txt.txt[m[m
+[32m+[m[32m[32m+[m[32m#[m[m
+[32m+[m[32m[1mdiff --git a/lol.txt.txt b/lol.txt.txt[m[m
+[32m+[m[32m[1mdeleted file mode 100644[m[m
+[32m+[m[32m[1mindex 3e5126c..0000000[m[m
+[32m+[m[32m[1m--- a/lol.txt.txt[m[m
+[32m+[m[32m[1m+++ /dev/null[m[m
+[32m+[m[32m[36m@@ -1 +0,0 @@[m[m
+[32m+[m[32m[31m-new[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[32m+[m[32m[1mdiff --git a/meme.txt b/meme.txt[m[m
+[32m+[m[32m[1mnew file mode 100644[m[m
+[32m+[m[32m[1mindex 0000000..e69de29[m[m
+[1mdiff --git a/d b/d[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2958ec5[m
+[1m--- /dev/null[m
+[1m+++ b/d[m
+[36m@@ -0,0 +1,147 @@[m
+[32m+[m[32m[1mdiff --git a/a b/a[m[m
+[32m+[m[32m[1mnew file mode 100644[m[m
+[32m+[m[32m[1mindex 0000000..7c36f25[m[m
+[32m+[m[32m[1m--- /dev/null[m[m
+[32m+[m[32m[1m+++ b/a[m[m
+[32m+[m[32m[36m@@ -0,0 +1,45 @@[m[m
+[32m+[m[32m[32m+[m[32m[1mdiff --git a/dictionary b/dictionary[m[m[m
+[32m+[m[32m[32m+[m[32m[1mnew file mode 160000[m[m[m
+[32m+[m[32m[32m+[m[32m[1mindex 0000000..71f19c2[m[m[m
+[32m+[m[32m[32m+[m[32m[1m--- /dev/null[m[m[m
+[32m+[m[32m[32m+[m[32m[1m+++ b/dictionary[m[m[m
+[32m+[m[32m[32m+[m[32m[36m@@ -0,0 +1 @@[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32mSubproject commit 71f19c213136b116a5ad68b757719350dc620047[m[m[m
+[32m+[m[32m[32m+[m[32m[1mdiff --git a/hello.txt b/hello.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1mindex e69de29..27855ca 100644[m[m[m
+[32m+[m[32m[32m+[m[32m[1m--- a/hello.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1m+++ b/hello.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[36m@@ -0,0 +1,3 @@[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32mnewneew[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32mkajfnka[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32mbrand[m[m[m
+[32m+[m[32m[32m+[m[32m\ No newline at end of file[m[m[m
+[32m+[m[32m[32m+[m[32m[1mdiff --git a/lol.txt b/lol.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1mindex 489ce0f..cb1be88 100644[m[m[m
+[32m+[m[32m[32m+[m[32m[1m--- a/lol.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1m+++ b/lol.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[36m@@ -1 +1,11 @@[m[m[m
+[32m+[m[32m[32m+[m[32m[31m-old[m[m[m
+[32m+[m[32m[32m+[m[32m\ No newline at end of file[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32mcomment[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m# Please enter the commit message for your changes. Lines starting[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m# with '#' will be ignored, and an empty message aborts the commit.[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m#[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m# On branch master[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m# Changes to be committed:[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m#	new file:   lol.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m#[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m# Changes not staged for commit:[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m#	deleted:    lol.txt.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m#[m[m[m
+[32m+[m[32m[32m+[m[32m[1mdiff --git a/lol.txt.txt b/lol.txt.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1mdeleted file mode 100644[m[m[m
+[32m+[m[32m[32m+[m[32m[1mindex 3e5126c..0000000[m[m[m
+[32m+[m[32m[32m+[m[32m[1m--- a/lol.txt.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1m+++ /dev/null[m[m[m
+[32m+[m[32m[32m+[m[32m[36m@@ -1 +0,0 @@[m[m[m
+[32m+[m[32m[32m+[m[32m[31m-new[m[m[m
+[32m+[m[32m[32m+[m[32m\ No newline at end of file[m[m[m
+[32m+[m[32m[32m+[m[32m[1mdiff --git a/meme.txt b/meme.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1mnew file mode 100644[m[m[m
+[32m+[m[32m[32m+[m[32m[1mindex 0000000..e69de29[m[m[m
+[32m+[m[32m[1mdiff --git a/ddds] b/ddds][m[m
+[32m+[m[32m[1mnew file mode 100644[m[m
+[32m+[m[32m[1mindex 0000000..7c36f25[m[m
+[32m+[m[32m[1m--- /dev/null[m[m
+[32m+[m[32m[1m+++ b/ddds][m[m
+[32m+[m[32m[36m@@ -0,0 +1,45 @@[m[m
+[32m+[m[32m[32m+[m[32m[1mdiff --git a/dictionary b/dictionary[m[m[m
+[32m+[m[32m[32m+[m[32m[1mnew file mode 160000[m[m[m
+[32m+[m[32m[32m+[m[32m[1mindex 0000000..71f19c2[m[m[m
+[32m+[m[32m[32m+[m[32m[1m--- /dev/null[m[m[m
+[32m+[m[32m[32m+[m[32m[1m+++ b/dictionary[m[m[m
+[32m+[m[32m[32m+[m[32m[36m@@ -0,0 +1 @@[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32mSubproject commit 71f19c213136b116a5ad68b757719350dc620047[m[m[m
+[32m+[m[32m[32m+[m[32m[1mdiff --git a/hello.txt b/hello.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1mindex e69de29..27855ca 100644[m[m[m
+[32m+[m[32m[32m+[m[32m[1m--- a/hello.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1m+++ b/hello.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[36m@@ -0,0 +1,3 @@[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32mnewneew[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32mkajfnka[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32mbrand[m[m[m
+[32m+[m[32m[32m+[m[32m\ No newline at end of file[m[m[m
+[32m+[m[32m[32m+[m[32m[1mdiff --git a/lol.txt b/lol.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1mindex 489ce0f..cb1be88 100644[m[m[m
+[32m+[m[32m[32m+[m[32m[1m--- a/lol.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1m+++ b/lol.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[36m@@ -1 +1,11 @@[m[m[m
+[32m+[m[32m[32m+[m[32m[31m-old[m[m[m
+[32m+[m[32m[32m+[m[32m\ No newline at end of file[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32mcomment[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m# Please enter the commit message for your changes. Lines starting[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m# with '#' will be ignored, and an empty message aborts the commit.[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m#[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m# On branch master[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m# Changes to be committed:[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m#	new file:   lol.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m#[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m# Changes not staged for commit:[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m#	deleted:    lol.txt.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[32m+[m[32m#[m[m[m
+[32m+[m[32m[32m+[m[32m[1mdiff --git a/lol.txt.txt b/lol.txt.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1mdeleted file mode 100644[m[m[m
+[32m+[m[32m[32m+[m[32m[1mindex 3e5126c..0000000[m[m[m
+[32m+[m[32m[32m+[m[32m[1m--- a/lol.txt.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1m+++ /dev/null[m[m[m
+[32m+[m[32m[32m+[m[32m[36m@@ -1 +0,0 @@[m[m[m
+[32m+[m[32m[32m+[m[32m[31m-new[m[m[m
+[32m+[m[32m[32m+[m[32m\ No newline at end of file[m[m[m
+[32m+[m[32m[32m+[m[32m[1mdiff --git a/meme.txt b/meme.txt[m[m[m
+[32m+[m[32m[32m+[m[32m[1mnew file mode 100644[m[m[m
+[32m+[m[32m[32m+[m[32m[1mindex 0000000..e69de29[m[m[m
+[32m+[m[32m[1mdiff --git a/dictionary b/dictionary[m[m
+[32m+[m[32m[1mnew file mode 160000[m[m
+[32m+[m[32m[1mindex 0000000..71f19c2[m[m
+[32m+[m[32m[1m--- /dev/null[m[m
+[32m+[m[32m[1m+++ b/dictionary[m[m
+[32m+[m[32m[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32m[32m+[m[32mSubproject commit 71f19c213136b116a5ad68b757719350dc620047[m[m
+[32m+[m[32m[1mdiff --git a/hello.txt b/hello.txt[m[m
+[32m+[m[32m[1mindex e69de29..074e4fc 100644[m[m
+[32m+[m[32m[1m--- a/hello.txt[m[m
+[32m+[m[32m[1m+++ b/hello.txt[m[m
+[32m+[m[32m[36m@@ -0,0 +1,3 @@[m[m
+[32m+[m[32m[32m+[m[m
+[32m+[m[32m[32m+[m[32mkajfnka[m[m
+[32m+[m[32m[32m+[m[32mbrand[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[32m+[m[32m[1mdiff --git a/lol.txt b/lol.txt[m[m
+[32m+[m[32m[1mindex 489ce0f..cb1be88 100644[m[m
+[32m+[m[32m[1m--- a/lol.txt[m[m
+[32m+[m[32m[1m+++ b/lol.txt[m[m
+[32m+[m[32m[36m@@ -1 +1,11 @@[m[m
+[32m+[m[32m[31m-old[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[32m+[m[32m[32m+[m[32mcomment[m[m
+[32m+[m[32m[32m+[m[32m# Please enter the commit message for your changes. Lines starting[m[m
+[32m+[m[32m[32m+[m[32m# with '#' will be ignored, and an empty message aborts the commit.[m[m
+[32m+[m[32m[32m+[m[32m#[m[m
+[32m+[m[32m[32m+[m[32m# On branch master[m[m
+[32m+[m[32m[32m+[m[32m# Changes to be committed:[m[m
+[32m+[m[32m[32m+[m[32m#	new file:   lol.txt[m[m
+[32m+[m[32m[32m+[m[32m#[m[m
+[32m+[m[32m[32m+[m[32m# Changes not staged for commit:[m[m
+[32m+[m[32m[32m+[m[32m#	deleted:    lol.txt.txt[m[m
+[32m+[m[32m[32m+[m[32m#[m[m
+[32m+[m[32m[1mdiff --git a/lol.txt.txt b/lol.txt.txt[m[m
+[32m+[m[32m[1mdeleted file mode 100644[m[m
+[32m+[m[32m[1mindex 3e5126c..0000000[m[m
+[32m+[m[32m[1m--- a/lol.txt.txt[m[m
+[32m+[m[32m[1m+++ /dev/null[m[m
+[32m+[m[32m[36m@@ -1 +0,0 @@[m[m
+[32m+[m[32m[31m-new[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[32m+[m[32m[1mdiff --git a/meme.txt b/meme.txt[m[m
+[32m+[m[32m[1mnew file mode 100644[m[m
+[32m+[m[32m[1mindex 0000000..e69de29[m[m
+[1mdiff --git a/ddds] b/ddds][m
+[1mnew file mode 100644[m
+[1mindex 0000000..7c36f25[m
+[1m--- /dev/null[m
+[1m+++ b/ddds][m
+[36m@@ -0,0 +1,45 @@[m
+[32m+[m[32m[1mdiff --git a/dictionary b/dictionary[m[m
+[32m+[m[32m[1mnew file mode 160000[m[m
+[32m+[m[32m[1mindex 0000000..71f19c2[m[m
+[32m+[m[32m[1m--- /dev/null[m[m
+[32m+[m[32m[1m+++ b/dictionary[m[m
+[32m+[m[32m[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32m[32m+[m[32mSubproject commit 71f19c213136b116a5ad68b757719350dc620047[m[m
+[32m+[m[32m[1mdiff --git a/hello.txt b/hello.txt[m[m
+[32m+[m[32m[1mindex e69de29..27855ca 100644[m[m
+[32m+[m[32m[1m--- a/hello.txt[m[m
+[32m+[m[32m[1m+++ b/hello.txt[m[m
+[32m+[m[32m[36m@@ -0,0 +1,3 @@[m[m
+[32m+[m[32m[32m+[m[32mnewneew[m[m
+[32m+[m[32m[32m+[m[32mkajfnka[m[m
+[32m+[m[32m[32m+[m[32mbrand[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[32m+[m[32m[1mdiff --git a/lol.txt b/lol.txt[m[m
+[32m+[m[32m[1mindex 489ce0f..cb1be88 100644[m[m
+[32m+[m[32m[1m--- a/lol.txt[m[m
+[32m+[m[32m[1m+++ b/lol.txt[m[m
+[32m+[m[32m[36m@@ -1 +1,11 @@[m[m
+[32m+[m[32m[31m-old[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[32m+[m[32m[32m+[m[32mcomment[m[m
+[32m+[m[32m[32m+[m[32m# Please enter the commit message for your changes. Lines starting[m[m
+[32m+[m[32m[32m+[m[32m# with '#' will be ignored, and an empty message aborts the commit.[m[m
+[32m+[m[32m[32m+[m[32m#[m[m
+[32m+[m[32m[32m+[m[32m# On branch master[m[m
+[32m+[m[32m[32m+[m[32m# Changes to be committed:[m[m
+[32m+[m[32m[32m+[m[32m#	new file:   lol.txt[m[m
+[32m+[m[32m[32m+[m[32m#[m[m
+[32m+[m[32m[32m+[m[32m# Changes not staged for commit:[m[m
+[32m+[m[32m[32m+[m[32m#	deleted:    lol.txt.txt[m[m
+[32m+[m[32m[32m+[m[32m#[m[m
+[32m+[m[32m[1mdiff --git a/lol.txt.txt b/lol.txt.txt[m[m
+[32m+[m[32m[1mdeleted file mode 100644[m[m
+[32m+[m[32m[1mindex 3e5126c..0000000[m[m
+[32m+[m[32m[1m--- a/lol.txt.txt[m[m
+[32m+[m[32m[1m+++ /dev/null[m[m
+[32m+[m[32m[36m@@ -1 +0,0 @@[m[m
+[32m+[m[32m[31m-new[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[32m+[m[32m[1mdiff --git a/meme.txt b/meme.txt[m[m
+[32m+[m[32m[1mnew file mode 100644[m[m
+[32m+[m[32m[1mindex 0000000..e69de29[m[m
+[1mdiff --git a/dictionary b/dictionary[m
+[1mnew file mode 160000[m
+[1mindex 0000000..71f19c2[m
+[1m--- /dev/null[m
+[1m+++ b/dictionary[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 71f19c213136b116a5ad68b757719350dc620047[m
+[1mdiff --git a/hello.txt b/hello.txt[m
+[1mindex e69de29..074e4fc 100644[m
+[1m--- a/hello.txt[m
+[1m+++ b/hello.txt[m
+[36m@@ -0,0 +1,3 @@[m
+[32m+[m
+[32m+[m[32mkajfnka[m
+[32m+[m[32mbrand[m
+\ No newline at end of file[m
+[1mdiff --git a/lol.txt b/lol.txt[m
+[1mindex 489ce0f..cb1be88 100644[m
+[1m--- a/lol.txt[m
+[1m+++ b/lol.txt[m
+[36m@@ -1 +1,11 @@[m
+[31m-old[m
+\ No newline at end of file[m
+[32m+[m[32mcomment[m
+[32m+[m[32m# Please enter the commit message for your changes. Lines starting[m
+[32m+[m[32m# with '#' will be ignored, and an empty message aborts the commit.[m
+[32m+[m[32m#[m
+[32m+[m[32m# On branch master[m
+[32m+[m[32m# Changes to be committed:[m
+[32m+[m[32m#	new file:   lol.txt[m
+[32m+[m[32m#[m
+[32m+[m[32m# Changes not staged for commit:[m
+[32m+[m[32m#	deleted:    lol.txt.txt[m
+[32m+[m[32m#[m
+[1mdiff --git a/lol.txt.txt b/lol.txt.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 3e5126c..0000000[m
+[1m--- a/lol.txt.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-new[m
+\ No newline at end of file[m
+[1mdiff --git a/meme.txt b/meme.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit a83dc4be4786ae945ab5d15e55f27447cde40715[m
+Author: Daniil <dronforapb@gmail.com>
+Date:   Wed Oct 12 13:00:08 2022 +0300
+
+    New file: hello.txt
+
+[1mdiff --git a/hello.txt b/hello.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/lol.txt b/lol.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..489ce0f[m
+[1m--- /dev/null[m
+[1m+++ b/lol.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mold[m
+\ No newline at end of file[m
+
+[33mcommit a8585e7f703ccc5467868f6273a3cf63ec568d71[m
+Author: Daniil <dronforapb@gmail.com>
+Date:   Sun Oct 2 17:13:44 2022 +0300
+
+    New comment
+
+[1mdiff --git a/lol.txt.txt b/lol.txt.txt[m
+[1mindex e69de29..3e5126c 100644[m
+[1m--- a/lol.txt.txt[m
+[1m+++ b/lol.txt.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mnew[m
+\ No newline at end of file[m
+
+[33mcommit d2511a3dd38883bb4d9e1960eaa2c1ef2a884b51[m
+Author: Daniil <dronforapb@gmail.com>
+Date:   Sun Oct 2 17:09:32 2022 +0300
+
+    'new'
+
+[1mdiff --git a/new.txt.txt b/new.txt.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 95d09f2..0000000[m
+[1m--- a/new.txt.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-hello world[m
+\ No newline at end of file[m
+
+[33mcommit 41898e6329cda17ce68fd70c9961a76cfbf049fc[m
+Author: Daniil <dronforapb@gmail.com>
+Date:   Sun Oct 2 17:07:10 2022 +0300
+
+    'Первый'
+
+[1mdiff --git a/lol.txt.txt b/lol.txt.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit d9293f885b15f1834805ffecaea1d2b773073902[m
+Author: Daniil <dronforapb@gmail.com>
+Date:   Sun Oct 2 17:03:53 2022 +0300
+
+    'Первый'
+
+[1mdiff --git a/new.txt.txt b/new.txt.txt[m
+[1mindex e69de29..95d09f2 100644[m
+[1m--- a/new.txt.txt[m
+[1m+++ b/new.txt.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello world[m
+\ No newline at end of file[m
+
+[33mcommit a7e147818302596a21bd16e5f2714de47166bc38[m
+Author: Daniil <dronforapb@gmail.com>
+Date:   Sun Oct 2 17:01:25 2022 +0300
+
+    'Первый'
+
+[1mdiff --git a/new.txt.txt b/new.txt.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
