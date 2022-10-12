@@ -9,3 +9,4 @@ comment
 # Changes not staged for commit:
 #	deleted:    lol.txt.txt
 #
+newtwo
